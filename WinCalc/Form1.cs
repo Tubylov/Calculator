@@ -61,7 +61,7 @@ namespace WinCalc
 
             timer1.Interval = 300;
         }
-
+        
         private void Calculate()
         {
             // определяем операцию
